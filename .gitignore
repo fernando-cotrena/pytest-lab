@@ -7,6 +7,9 @@ __pycache__/
 
 # pytest cache
 .pytest_cache/
+__pycache__/
+*.py[cod]
+*.pyc
 
 # env files
 .env
@@ -22,3 +25,5 @@ __pycache__/
 # Entorno virtual de Python
 venv/
 .env
+
+**/report.html
